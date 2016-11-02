@@ -1,0 +1,78 @@
+3C (or 4C)
+<i>Caenorhabditis</i>
+<i>Drosophila</i>
+<i>Saccharomyces</i>
+Bonferroni correction
+ENCODE
+Fst
+HMM
+HapMap
+MCMC
+P-value
+SNP
+array CGH
+bayesian
+bioinformatics
+cDNA
+cancer
+cell fate
+chromatin remodeling
+differentiation
+coalescent
+collaboration
+comparative genomics
+complex disease
+dN/dS
+database
+duplication
+dynamic range
+epigenetics
+evolution
+exon
+expression profile
+false discovery rate
+fixation
+funding
+gene families
+genome
+genomic instability
+genotype
+high throughput
+inversion
+knock-out
+lineage
+linkage analysis
+mRNA
+machine learning
+mass spec
+massively parallel
+maximum likelihood
+microarray
+model organisms
+multiple testing
+mutagenesis
+mutation
+next generation sequencing
+peptide
+phenotype
+phylogenetics
+population structure
+positive selection
+probe
+quantitative trait
+rare variant
+repeat expansion
+risk factor
+robust
+speciation
+transcript
+translocation
+whole genome shotgun
+pedigree
+significance cutoff
+hybrid
+pull-down
+common disease
+common variant
+genomewide association
+structural variation
